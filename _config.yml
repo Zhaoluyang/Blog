@@ -99,5 +99,5 @@ theme: inside
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
 - type: git
-  repo: git@github.com:Zhaoluyang/Zhaoluyang.github.io.git# 使用仓库的ssh地址
+  repo: git@github.com:Zhaoluyang/Zhaoluyang.github.io.git
   branch: master
